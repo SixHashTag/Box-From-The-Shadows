@@ -1,0 +1,25 @@
+body {
+	background:#425058;
+	font-family:Roboto Mono;
+}
+
+h1 {
+	color:#000000;
+	background:#A9BBC4;
+}
+
+h2 {
+	color:#7DAD9D;
+}
+
+a {
+	color:#C2AEDD;
+}
+
+.secondary {
+	color:#E75480;
+}
+
+p {
+	color:#FFFFFF;
+}
